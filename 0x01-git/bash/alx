@@ -1,5 +1,9 @@
 #<<<<<<< HEAD
+#<<<<<<< HEAD
 #=======
 #!/bin/bash
 #>>>>>>> 2e0859c5c54afa548e56905e1f5e5d329150d1ea
-echo "ALX School is so cool!"
+#echo "ALX School is so cool!"
+#=======
+echo "ALX School"
+#>>>>>>> update_script
